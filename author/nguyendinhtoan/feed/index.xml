@@ -8,11 +8,11 @@
 	>
 
 <channel>
-	<title>NguyenDinhToan</title>
+	<title>NguyenDinhToan &#8211; DinhToan</title>
 	<atom:link href="http://localhost/myproject/wordpress/author/nguyendinhtoan/feed/" rel="self" type="application/rss+xml" />
 	<link>https://nguyendinhtoan08.github.io/MyWordpress</link>
 	<description>Một trang web mới sử dụng WordPress</description>
-	<lastBuildDate>Mon, 05 Sep 2022 16:19:45 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 19 Sep 2022 01:55:22 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,245 +20,12 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.0.2</generator>
 	<item>
-		<title>Elementor #106</title>
-		<link>https://nguyendinhtoan08.github.io/MyWordpress/elementor-106/</link>
-					<comments>https://nguyendinhtoan08.github.io/MyWordpress/elementor-106/#respond</comments>
-		
-		<dc:creator><![CDATA[NguyenDinhToan]]></dc:creator>
-		<pubDate>Mon, 05 Sep 2022 03:14:36 +0000</pubDate>
-				<category><![CDATA[Chưa phân loại]]></category>
-		<guid isPermaLink="false">https://nguyendinhtoan08.github.io/MyWordpress/?p=106</guid>
-
-					<description><![CDATA[+84 939 341 686 12 Trịnh Đình Thảo &#8211; P, Phú Thọ Hòa &#8211; Q, Tân Phú &#8211; Tp HCM. My Accout Book Now Soho Hotel]]></description>
-										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="106" class="elementor elementor-106">
-									<section class="elementor-section elementor-top-section elementor-element elementor-element-1f7a2b0 elementor-section-full_width elementor-section-stretched elementor-section-height-default elementor-section-height-default" data-id="1f7a2b0" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}">
-						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-3964cd4" data-id="3964cd4" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-d9e86ca elementor-widget__width-initial elementor-absolute elementor-widget elementor-widget-heading" data-id="d9e86ca" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<style>/*! elementor - v3.7.2 - 21-08-2022 */
-.elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:19px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:29px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px}</style><h6 class="elementor-heading-title elementor-size-small">+84 939 341 686</h6>		</div>
-				</div>
-				<div class="elementor-element elementor-element-39beab8 elementor-view-stacked elementor-widget__width-initial elementor-absolute elementor-shape-circle elementor-widget elementor-widget-icon" data-id="39beab8" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="icon.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-icon-wrapper">
-			<div class="elementor-icon">
-			<i aria-hidden="true" class="fas fa-phone"></i>			</div>
-		</div>
-				</div>
-				</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-3b8b88d" data-id="3b8b88d" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-9e6b377 elementor-view-stacked elementor-shape-circle elementor-widget elementor-widget-icon" data-id="9e6b377" data-element_type="widget" data-widget_type="icon.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-icon-wrapper">
-			<div class="elementor-icon">
-			<i aria-hidden="true" class="fas fa-map-marker-alt"></i>			</div>
-		</div>
-				</div>
-				</div>
-				<div class="elementor-element elementor-element-8a65218 elementor-widget__width-initial elementor-absolute elementor-widget elementor-widget-heading" data-id="8a65218" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h6 class="elementor-heading-title elementor-size-small">12 Trịnh Đình Thảo - P, Phú Thọ Hòa - Q, Tân Phú - Tp HCM.</h6>		</div>
-				</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-6e49615" data-id="6e49615" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-42a0ea7 elementor-nav-menu__align-left elementor-absolute elementor-widget__width-initial elementor-nav-menu--dropdown-tablet elementor-nav-menu__text-align-aside elementor-nav-menu--toggle elementor-nav-menu--burger elementor-widget elementor-widget-nav-menu" data-id="42a0ea7" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;,&quot;layout&quot;:&quot;horizontal&quot;,&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;&lt;i class=\&quot;fas fa-caret-down\&quot;&gt;&lt;\/i&gt;&quot;,&quot;library&quot;:&quot;fa-solid&quot;},&quot;toggle&quot;:&quot;burger&quot;}" data-widget_type="nav-menu.default">
-				<div class="elementor-widget-container">
-			<link rel="stylesheet" href="https://nguyendinhtoan08.github.io/MyWordpress/wp-content/plugins/elementor-pro/assets/css/widget-nav-menu.min.css">			<nav migration_allowed="1" migrated="0" role="navigation" class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-horizontal e--pointer-underline e--animation-fade">
-				<ul id="menu-1-42a0ea7" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-382"><a href="https://nguyendinhtoan08.github.io/MyWordpress/usd/" class="elementor-item">USD</a>
-<ul class="sub-menu elementor-nav-menu--dropdown">
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-384"><a href="https://nguyendinhtoan08.github.io/MyWordpress/about-us/" class="elementor-sub-item">EUR</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-383"><a href="https://nguyendinhtoan08.github.io/MyWordpress/contact-us/" class="elementor-sub-item">GBP</a></li>
-</ul>
-</li>
-</ul>			</nav>
-					<div class="elementor-menu-toggle" role="button" tabindex="0" aria-label="Menu Toggle" aria-expanded="false">
-			<i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--open eicon-menu-bar"></i><i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--close eicon-close"></i>			<span class="elementor-screen-only">Menu</span>
-		</div>
-			<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" role="navigation" aria-hidden="true">
-				<ul id="menu-2-42a0ea7" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-382"><a href="https://nguyendinhtoan08.github.io/MyWordpress/usd/" class="elementor-item" tabindex="-1">USD</a>
-<ul class="sub-menu elementor-nav-menu--dropdown">
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-384"><a href="https://nguyendinhtoan08.github.io/MyWordpress/about-us/" class="elementor-sub-item" tabindex="-1">EUR</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-383"><a href="https://nguyendinhtoan08.github.io/MyWordpress/contact-us/" class="elementor-sub-item" tabindex="-1">GBP</a></li>
-</ul>
-</li>
-</ul>			</nav>
-				</div>
-				</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-0b08960" data-id="0b08960" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-b559d9d elementor-widget__width-auto elementor-absolute elementor-widget elementor-widget-heading" data-id="b559d9d" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h6 class="elementor-heading-title elementor-size-small">My Accout</h6>		</div>
-				</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-0d115f2" data-id="0d115f2" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-68be358 elementor-widget__width-auto elementor-absolute elementor-widget elementor-widget-button" data-id="68be358" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="button.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-button-wrapper">
-			<a href="#" class="elementor-button-link elementor-button elementor-size-md" role="button">
-						<span class="elementor-button-content-wrapper">
-						<span class="elementor-button-text">Book Now</span>
-		</span>
-					</a>
-		</div>
-				</div>
-				</div>
-					</div>
-		</div>
-							</div>
-		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-67a531d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="67a531d" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-d9b9616" data-id="d9b9616" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-b0ee3b7 elementor-widget__width-initial elementor-absolute elementor-widget elementor-widget-heading" data-id="b0ee3b7" data-element_type="widget" data-settings="{&quot;_position&quot;:&quot;absolute&quot;}" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h1 class="elementor-heading-title elementor-size-large">Soho Hotel</h1>		</div>
-				</div>
-					</div>
-		</div>
-				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-177cd28" data-id="177cd28" data-element_type="column">
-			<div class="elementor-widget-wrap">
-									</div>
-		</div>
-							</div>
-		</section>
-							</div>
-		]]></content:encoded>
-					
-					<wfw:commentRss>https://nguyendinhtoan08.github.io/MyWordpress/elementor-106/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Bài Viết Demo</title>
-		<link>https://nguyendinhtoan08.github.io/MyWordpress/bai-viet-demo/</link>
-					<comments>https://nguyendinhtoan08.github.io/MyWordpress/bai-viet-demo/#respond</comments>
-		
-		<dc:creator><![CDATA[NguyenDinhToan]]></dc:creator>
-		<pubDate>Mon, 29 Aug 2022 00:45:28 +0000</pubDate>
-				<category><![CDATA[Chưa phân loại]]></category>
-		<guid isPermaLink="false">https://nguyendinhtoan08.github.io/MyWordpress/?p=71</guid>
-
-					<description><![CDATA[Bất ngờ chưa bà già????]]></description>
-										<content:encoded><![CDATA[
-<p>Bất ngờ chưa bà già????</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://nguyendinhtoan08.github.io/MyWordpress/bai-viet-demo/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>TRUNG TÂM MUSIC</title>
-		<link>https://nguyendinhtoan08.github.io/MyWordpress/trung-tam-music/</link>
-					<comments>https://nguyendinhtoan08.github.io/MyWordpress/trung-tam-music/#respond</comments>
-		
-		<dc:creator><![CDATA[NguyenDinhToan]]></dc:creator>
-		<pubDate>Mon, 22 Aug 2022 01:33:52 +0000</pubDate>
-				<category><![CDATA[Chưa phân loại]]></category>
-		<guid isPermaLink="false">https://nguyendinhtoan08.github.io/MyWordpress/?p=10</guid>
-
-					<description><![CDATA[GIỚI THIỆU VỀ NHỮNG KHÓA HỌC 1.KHÓA HỌC VỀ PIANOViệc chơi Piano nói riêng hay chơi các loại nhạc cụ khác nói chung là 1 hình thức giải trí lành mạnh đang được rất nhiều người lựa chọn để giải trí để thư giãn sau những giờ học tập hay làm việc căng thẳng, mệt &#8230; <p class="link-more"><a href="https://nguyendinhtoan08.github.io/MyWordpress/trung-tam-music/" class="more-link">Đọc tiếp<span class="screen-reader-text"> "TRUNG TÂM MUSIC"</span></a></p>]]></description>
-										<content:encoded><![CDATA[
-<p class="has-text-align-center has-vivid-red-color has-text-color"><strong><em>GIỚI THIỆU VỀ NHỮNG KHÓA HỌC</em></strong></p>
-
-
-
-<div class="wp-container-3 wp-block-columns alignwide" style="border-radius:0px">
-<div class="wp-container-1 wp-block-column is-vertically-aligned-center" style="flex-basis:49%"><div class="wp-block-image">
-<figure class="aligncenter is-resized"><img loading="lazy" src="https://nguyendinhtoan08.github.io/MyWordpress/wp-content/uploads/2022/08/PIANO-DA-THEM-CHU.jpg" alt="" class="wp-image-11" width="395" height="267"/><figcaption>DTN MUSIC</figcaption></figure></div></div>
-
-
-
-<div class="wp-container-2 wp-block-column is-vertically-aligned-top" style="flex-basis:51%">
-<p><strong><em>1.KHÓA HỌC VỀ PIANO</em></strong><br>Việc chơi Piano nói riêng hay chơi các loại nhạc cụ khác nói chung là 1 hình thức giải trí lành mạnh đang được rất nhiều người lựa chọn để giải trí để thư giãn sau những giờ học tập hay làm việc căng thẳng, mệt mỏi.  Âm nhạc sẽ giúp chúng ta quên hết mệt mỏi để tận hưởng những giờ phút giải trí lành mạnh, đặc biệt là đối với trẻ nhỏ thì âm nhạc còn giúp trẻ tránh xa sự cám dỗ của những trò giải trí vô bổ khác.</p>
-</div>
-</div>
-
-
-
-<div class="wp-block-media-text alignwide has-media-on-the-right is-stacked-on-mobile is-vertically-aligned-center" style="grid-template-columns:auto 55%"><figure class="wp-block-media-text__media"><img loading="lazy" width="1442" height="960" src="https://nguyendinhtoan08.github.io/MyWordpress/wp-content/uploads/2022/08/PIANO.jpg" alt="" class="wp-image-12 size-full"/></figure><div class="wp-block-media-text__content">
-<p><p style="text-align: justify;"><strong>Giúp bạn cải thiện trí nhớ, thông minh và sáng tạo hơn:&nbsp;</strong>Việc học chơi một nhạc cụ, đặc biệt là khi bạn đã đạt đến trình độ khá có thể thúc đẩy sự sáng tạo của chúng ta bởi giáo dục âm nhạc giúp làm nâng cao tinh thần và nhận thức của bạn, bộ não được kích thích, giúp cải thiện sự sáng tạo.</p></p>
-
-
-
-<div class="wp-container-5 wp-block-columns">
-<div class="wp-container-4 wp-block-column" style="flex-basis:100%">
-<ul><li>Khóa Học Piano Đệm Hát</li><li>Kinh nghiệm học đàn Piano</li><li>Piano và Organ cái nào khó học hơn</li><li>Khóa&nbsp;Học Đàn Piano Cho Người Bắt Đầu</li></ul>
-</div>
-</div>
-</div></div>
-
-
-
-<h4 class="has-text-align-center"><strong><em>2. Khóa học về Guitar</em></strong></h4>
-
-
-<div class="wp-block-image">
-<figure class="aligncenter size-full"><img loading="lazy" width="3005" height="2034" src="https://nguyendinhtoan08.github.io/MyWordpress/wp-content/uploads/2022/08/GUITAR-DA-THEM-CHU-1.jpg" alt="" class="wp-image-18"/><figcaption>DTN MUSIC</figcaption></figure></div>
-
-
-<div class="wp-container-7 wp-block-group alignwide"><div class="wp-block-group__inner-container">
-<ul><li>Kiến thức học đàn guitar cho người chưa biết gì về guitar</li></ul>
-
-
-
-<div class="wp-container-6 is-vertical is-content-justification-left wp-block-group">
-<p><p style="text-align: justify;">&nbsp;Bạn là người có niềm đam mê đặc biệt với&nbsp;<a href="https://vietthuongshop.vn/dan-guitar" target="_blank" rel="noreferrer noopener"><strong>đàn guitar</strong></a>, thích ngồi đàn hát vu vơ, solo các bản tình ca lãng mạn hay đệm hát rình rang cho nguyên một nhóm bạn vui chơi,&#8230; Tuy nhiên bạn không biết nên bắt đầu học guitar như thế nào? Học guitar có khó không? Bao lâu thì sẽ biết chơi guitar?&#8230; và nhiều vấn đề về guitar khác nữa.</p></p>
-
-
-
-<p><p style="text-align: justify;">Do đó bài viết hôm nay mình muốn đưa ra những giải đáp cho những thắc mắc của các bạn về đàn guitar để những người chưa biết gì về đàn guitar có cái nhìn tổng quan nhất trước khi bắt đầu học guitar.</p></p>
-</div>
-</div></div>
-
-
-
-<div class="wp-block-media-text alignwide is-stacked-on-mobile is-vertically-aligned-center" style="grid-template-columns:34% auto"><figure class="wp-block-media-text__media"><img loading="lazy" width="600" height="831" src="https://nguyendinhtoan08.github.io/MyWordpress/wp-content/uploads/2022/08/guitarchateauc08-c06.jpg" alt="" class="wp-image-22 size-full"/></figure><div class="wp-block-media-text__content">
-<p class="has-text-align-center has-background-background-color has-background has-small-font-size"><p class="has-text-align-center has-background-background-color has-background has-small-font-size" style="text-align: justify;"><strong><em>Nên bắt đầu học guitar bằng cây đàn như thế nào? Đàn dây sắt và dây nylon có gì khác nhau không?</em></strong><br>Bạn thấy có khá nhiều loại đàn guitar khác nhau với các mức giá cũng khá đa dạng từ vài trăm nghàn đồng đến vài nghàn đô. Vậy tại sao chúng lại có giá khác nhau như vậy? Đó là do chất liệu kỹ thuật và công nghệ làm nên những cây đàn guitar này rất khác nhau. Vậy mới chơi thì mua đàn guitar loại nào? Bạn không cần phải mua đàn guitar thật mắc tiền khi mới bắt đầu bạn có thể mua&nbsp;<a href="http://pianominhthanh.vn/ban-si-le-dan-guitar"><strong>đàn guitar giá rẻ</strong></a> tại DNT qua sdt 0939341686&nbsp;cũng được nhưng điều quan trọng chúng phải đảm bảo đạt chuẩn âm thanh. Đây là yếu tố quyết định tới khả năng phát triển guitar của bạn sau này.<br>Đàn guitar dây nylon hay còn gọi&nbsp;<strong>đàn guitar Classic</strong>&nbsp;dùng để chơi nhạc cổ điển hay gọi là solo,nhạc không cần người hát, nhạc không lời. Đặc điểm của loại nhạc này là trầm ấm lắng đọng vì thế cây đàn guitar classic sẽ có cấu tạo tương ứng với những yêu cầu đó. Chính là: sử dụng dây nylon, cần đàn 12 phím, cần đàn lớn.</p></p>
-</div></div>
-
-
-
-<div class="wp-block-media-text alignwide has-media-on-the-right is-stacked-on-mobile is-vertically-aligned-top" style="grid-template-columns:auto 35%"><figure class="wp-block-media-text__media"><img loading="lazy" width="500" height="500" src="https://nguyendinhtoan08.github.io/MyWordpress/wp-content/uploads/2022/08/guitar-squier-sa-105.jpg" alt="" class="wp-image-24 size-full"/></figure><div class="wp-block-media-text__content">
-<p class="has-text-align-center"><p class="has-text-align-center" style="text-align: justify;">Đàn guitar dây sắt hay còn gọi&nbsp;<strong>đàn guitar modern</strong>&nbsp;dùng để đệm hát hay chơi nhạc trẻ hiện giờ ah. Đặc điểm của dòng nhạc này là hào hứng và sôi động vì thế nó cần am thanh phải lớn và vang.&nbsp; Chính vì vậy mà loại đàn guitar acoustic dùng:&nbsp; dây sắt, cần đàn có 14 phím,&nbsp; cần đàn nhỏ.<br><br>Đó là những đặc điểm chính để bạn phân biệt được đàn guitar Classic và đàn guitar modern. Đó cũng là cách giúp bạn chọn được đàn guitar thích hợp với dòng nhạc mình đang theo học.</p></p>
-</div></div>
-
-
-
-<p class="has-text-align-center" style="font-style:normal;font-weight:200"><p class="has-text-align-center" style="font-style: normal; font-weight: 200; text-align: justify;">Bạn hãy học thật chậm rãi và kiên trì. Thời gian ban đầu học guitar có thể nói là thời gian khó khăn nhất với bất kỳ ai kể cả người học guitar classic hay guitar modern. Các vấn đề mà bạn thường gặp phải đó là đau tay, các ngón tay bị dộp và bong tróc da. Không những thế khi bạn mới học việc nhớ nốt nhạc, nhớ vị trí bấm nhiều khi làm bạn thất vọng. Chính vì thế nhiều bạn cũng bỏ cuộc từ đây.<br>Hãy xác định niềm đam mê hay động lực nào mà bạn học guitar có thể vì: Yêu thích hay để giải trí hay thậm chí là cưa gái. Hãy giành sự tâm huyết và niềm đam mê để vượt qua nhé.<br>Và khi học guitar bạn cứ học luyện ngón là điều đầu tiên. Bạn hãy học cách bấm nốt, cách bấm vị trí các nốt trên cần đàn guitar trước khi học những thứ cao siêu hơn nhé.</p></p>
-
-
-
-<p></p>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://nguyendinhtoan08.github.io/MyWordpress/trung-tam-music/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
 		<title>Chào tất cả mọi người!</title>
-		<link>https://nguyendinhtoan08.github.io/MyWordpress/chao-moi-nguoi/</link>
-					<comments>https://nguyendinhtoan08.github.io/MyWordpress/chao-moi-nguoi/#comments</comments>
+		<link>https://nguyendinhtoan08.github.io/MyWordpress/2022/09/19/chao-moi-nguoi/</link>
+					<comments>https://nguyendinhtoan08.github.io/MyWordpress/2022/09/19/chao-moi-nguoi/#comments</comments>
 		
 		<dc:creator><![CDATA[NguyenDinhToan]]></dc:creator>
-		<pubDate>Mon, 15 Aug 2022 02:03:09 +0000</pubDate>
+		<pubDate>Mon, 19 Sep 2022 01:55:22 +0000</pubDate>
 				<category><![CDATA[Chưa phân loại]]></category>
 		<guid isPermaLink="false">https://nguyendinhtoan08.github.io/MyWordpress/?p=1</guid>
 
@@ -267,7 +34,7 @@
 <p>Cảm ơn vì đã sử dụng WordPress. Đây là bài viết đầu tiên của bạn. Sửa hoặc xóa nó, và bắt đầu bài viết của bạn nhé!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://nguyendinhtoan08.github.io/MyWordpress/chao-moi-nguoi/feed/</wfw:commentRss>
+					<wfw:commentRss>https://nguyendinhtoan08.github.io/MyWordpress/2022/09/19/chao-moi-nguoi/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
